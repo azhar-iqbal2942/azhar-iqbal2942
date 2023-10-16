@@ -2,10 +2,11 @@
 
 Seasoned developer with a knack for building efficient and secure web applications, <br> and crafting robust event-driven systems🚀, all with a dash of passion.<br></br>
 
+### Whether you want to chat about something or have an exciting project in your mind, I'm here and ready for a friendly conversation.
 
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivaylamba@gmail.com)](mailto:shivaylamba@gmail.com)
 
-- Backend Developer
+
 
 **Languages and Tools:** 
 
