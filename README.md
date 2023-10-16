@@ -1,4 +1,4 @@
-### Hey 👋, I'm Azhar  
+### Hey 👋, I'm [Azhar!](http://codecrewsclub.com/me/) 
 
 Seasoned developer with a knack for building efficient and secure web applications, and crafting robust event-driven systems🚀, all with a dash of passion.
 
