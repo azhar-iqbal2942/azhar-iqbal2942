@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey 👋, I'm Azhar  
+
+Seasoned developer with a knack for building efficient and secure web applications, and crafting robust event-driven systems🚀, all with a dash of passion.
 
 <!--
 **azhar-iqbal2942/azhar-iqbal2942** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
