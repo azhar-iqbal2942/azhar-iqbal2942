@@ -4,7 +4,7 @@ Seasoned developer with a knack for building efficient and secure web applicatio
 
 ### Whether you want to chat about something or have an exciting project in your mind, I'm here and ready for a friendly conversation.
 
-[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:shivaylamba@gmail.com)](mailto:shivaylamba@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:azhariqbal2942@gmail.com)](mailto:shivaylamba@gmail.com)
 
 
 
