@@ -2,12 +2,18 @@
 <h3> Hey 👋, I'm <a href="http://codecrewsclub.com/me/">Azhar!</a></h3> 
 Seasoned developer with a knack for building efficient and secure web applications, and crafting robust event-driven systems🚀, all with a dash of passion.<br></br>
 
-<social>
-  <a href="mailto:azhariqbal2942@gmail.com">
-    <img height="30" src="https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red" alt="Gmail Badge">
-  </a> 
-</social>
 
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/the-azhariqbal/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="the-azhariqbal" 
+          height="30" width="40" />
+  </a>
+  <a href="mailto:azhariqbal2942@gmail.com" target="blank">
+    <img align="center" src="https://logolook.net/wp-content/uploads/2021/06/Symbol-Gmail.png" alt="azhariqbal2942@gmail.com" height="30" width="40"/>
+  </a>
+</p>
 
 
 
