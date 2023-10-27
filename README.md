@@ -1,4 +1,4 @@
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3> Hey 👋, I'm <a href="http://codecrewsclub.com/me/">Azhar!</a></h3> 
 Seasoned developer with a knack for building efficient and secure web applications, and crafting robust event-driven systems🚀, all with a dash of passion.<br></br>
 
