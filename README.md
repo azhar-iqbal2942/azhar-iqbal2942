@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=azhar-iqbal2942&label=Profile%20views&color=0e75b6&style=flat" alt="azhar-iqbal2942" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h3> Hey 👋, I'm <a href="http://codecrewsclub.com/me/">Azhar!</a></h3> 
 Seasoned developer with a knack for building efficient and secure web applications, and crafting robust event-driven systems🚀, all with a dash of passion.<br></br>
